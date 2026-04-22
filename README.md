@@ -9,8 +9,11 @@ This repository is configured to run in GitHub Codespaces.
 2. Click **Code**.
 3. Open the **Codespaces** tab.
 4. Create a new codespace.
+*When a new codespace is created, the development container will automatically install the required Python dependencies from `requirements.txt`.*
+5. Once the codespace is ready, open the notebook file (`.ipynb`).
+6. Select the Python kernel if prompted.
+7. Run the cells normally.
 
-When a new codespace is created, the development container will automatically install the required Python dependencies from `requirements.txt`.
 
 ## Local setup
 
